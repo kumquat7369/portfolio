@@ -1,4 +1,2 @@
 # portfolio
-A C-ompilation of my seven-year experience with the language.
-
-
+print(A C-ompilation of my seven-year experience with the language.)
